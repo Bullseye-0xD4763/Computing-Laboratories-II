@@ -7,4 +7,4 @@ Features
 -------------
 - Command Line Interface playable
 - AI BOT that will play against you (using MinMax algorithm to calculate best moves)
-- Takeback play 
+- Stack based gamestate, allowing you to always perform a takeback 
