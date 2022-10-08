@@ -1,0 +1,3 @@
+/home/gepoo/CLionProjects/ProjLA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gepoo/CLionProjects/ProjLA/cmake-build-debug/CMakeFiles/proj.dir
+/home/gepoo/CLionProjects/ProjLA/cmake-build-debug/CMakeFiles/edit_cache.dir
